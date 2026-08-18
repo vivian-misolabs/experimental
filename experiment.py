@@ -3,3 +3,6 @@ def add(a, b):
 
 def subtract(a, b):
     pass
+
+def power(a, b):
+    pass
