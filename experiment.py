@@ -6,3 +6,6 @@ def subtract(a, b):
 
 def divide(a, b):
     pass
+
+def power(a, b):
+    pass
