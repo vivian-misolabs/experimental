@@ -9,3 +9,6 @@ def divide(a, b):
 
 def power(a, b):
     pass
+
+def concatenate(a, b):
+    pass
